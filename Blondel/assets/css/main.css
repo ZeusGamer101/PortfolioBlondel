@@ -2316,3 +2316,7 @@ input, select, textarea {
 			height: 200px;
 			object-fit: contain;
 		}
+
+		.from-left, .from-right{
+			margin-bottom: 50px;
+		}
